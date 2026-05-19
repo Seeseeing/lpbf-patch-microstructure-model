@@ -63,7 +63,7 @@ NumPy
 Open this project folder in VS Code:
 
 ```text
-C:\Users\yanhe\Documents\Codex\2026-05-18\new-chat
+C:\Users\yanhe\Documents\lpbf-simulation
 ```
 
 Then open the VS Code terminal and create a virtual environment:
