@@ -72,10 +72,11 @@ Then open the VS Code terminal and create a virtual environment:
 python -m venv .venv
 ```
 
-Activate it:
+Activate it in PowerShell:
 
 ```powershell
-.venv\Scripts\activate
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.venv\Scripts\Activate.ps1
 ```
 
 Install dependencies:

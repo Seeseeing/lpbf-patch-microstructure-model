@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated demo data and training outputs
+patch_model/synthetic_patch_data.csv
+patch_model/runs_demo/
+patch_model/quick_test/
+patch_model/runs_real/
+runs_demo/
+quick_test/
+runs_real/
+
+# Local scratch files
+*.zip
